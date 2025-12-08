@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -170,25 +170,27 @@
   },
   "active": "0fa6f0b648c67c9a",
   "lastOpenFiles": [
+    "Library/Author/Irvine-Welsh/Nightmares_of_the_Marabou_Stork/Nightmares_of_the_Marabou_Stork.fb2",
+    "Library/Author/Irvine-Welsh/Nightmares_of_the_Marabou_Stork/Nightmares of the Marabou Stork.fb2",
+    "Library/Author/Irvine-Welsh/Nightmares_of_the_Marabou_Stork",
+    "Library/Author/Irvine-Welsh/Без назви.md",
     "README.md",
-    "Library/Author/Agatha-Christie/Desiatq_neggrov/Ten-Little-Niggers.md",
+    "Library/Author/Без назви",
     "Navigation/index.md",
+    "Library/Skills/%BOOKS/write-shorten",
+    "Library/Skills/%BOOKS/easy-way-quit-smoking",
+    "Library/Skills/Engineer/Perfect-code/sovershenyi_code.pdf",
+    "Library/Skills/%BOOKS/Mnemonica",
+    "Library/Skills/%BOOKS/The-Bartenders-Bible",
+    "Library/Skills/Engineer/Perfect-code",
+    "Library/Skills/Engineer/Grokaem_algaritmy/Grokaem_algaritmy.md",
+    "Library/Skills/Engineer/Clean-code",
+    "Library/Author/Agatha-Christie/Desiatq_neggrov/Ten-Little-Niggers.md",
     "Library/Psychology/Solo/Pochuvaysia_dobre/Pochuvaysia_dobre.md",
     "Library/Author/Aldous-Huxlex/README.md",
-    "Library/Psychology/Solo/Habits-of-a-happy-brain/Hormony_shastia 1.fb2",
-    "Library/Psychology/Solo/Habits-of-a-happy-brain",
-    "Library/Author/Aldous-Huxlex/Heaven-and-Hell/Heaven and Hell.fb2",
-    "Library/Author/Aldous-Huxlex/Heaven-and-Hell",
-    "Library/Author/Aldous-Huxlex/The-Doors-of-Perception/The-Doors-of-Perception.fb2",
     "Library/Psychology/Author/Sigmund-Freud/%Sigmund Freud.md",
-    "Library/Author/Aldous-Huxlex/The-Doors-of-Perception",
-    "Library/Skills/Engineer/Grokaem_algaritmy/Grokaem_algaritmy.md",
     "Library/Author/Brodsky/Pokhvala_skuke/Pokhvala_skuke.md",
-    "Library/Author/Brodsky/Pokhvala_skuke/Pokhvala_skuke.fb2",
-    "Library/Author/Brodsky/Pokhvala_skuke",
     "Library/Author/Brodsky/Brodsky.md",
-    "Library/Author/Brodsky",
-    "Library/Author/Anthony-Burgess/Zavodnoiu_apelsin/Zavodnoiu_apelsin.fb2",
     "Library/Author/Adams-Douglas/Avtostopom-po-Galaktike/Avtostopom-po-Galaktike.md",
     "Library/Author/Adams-Douglas/Adams-Douglas.md",
     "Library/Author/Stefan-Zweig/Stefan-Zweig.md",
@@ -203,8 +205,6 @@
     "Library/Author/%READY/Adams-Douglas/Adams-Douglas.md",
     "Library/Author/%NEXT/Irvine-Welsh/Trainspotting/README.md",
     "Library/Biography/%LOADING/Iceber_Slim/Translation-UA/Book.md",
-    "Library/Author/%READY/Ray-Douglas-Bradbury/Ray-Douglas-Bradbury.md",
-    "Library/Author/%READY/Agatha-Christie/Desiatq_neggrov/Desiatq_neggrov.md",
-    "Library/Author/%READY/Charles-Bukowski/Charles-Bukowski.md"
+    "Library/Author/%READY/Ray-Douglas-Bradbury/Ray-Douglas-Bradbury.md"
   ]
 }

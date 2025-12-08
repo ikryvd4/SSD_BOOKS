@@ -75,13 +75,15 @@
       "color": "yellow",
       "unsynced": [
         "2563962f59bff44b"
-      ]
+      ],
+      "icon": "lucide-loader-2"
     },
     "Library/Author/Danielle-Brown": {
       "color": "yellow",
       "unsynced": [
         "2563962f59bff44b"
-      ]
+      ],
+      "icon": "lucide-loader-2"
     },
     "Library/Author/David-Selinger": {
       "icon": "lucide-check-square-2",
@@ -101,7 +103,8 @@
       "color": "yellow",
       "unsynced": [
         "2563962f59bff44b"
-      ]
+      ],
+      "icon": "lucide-loader-2"
     },
     "Library/Author/Franz-Kafka": {
       "color": "green",
@@ -142,7 +145,8 @@
       "color": "yellow",
       "unsynced": [
         "2563962f59bff44b"
-      ]
+      ],
+      "icon": "lucide-loader-2"
     },
     "Library/Author/Joanne-Rowling": {
       "icon": "lucide-check-square-2",
@@ -194,7 +198,7 @@
       ]
     },
     "Library/Author/Strugatsky-Brothers": {
-      "icon": "lucide-check-square-2",
+      "icon": "lucide-loader-2",
       "color": "yellow",
       "unsynced": [
         "2563962f59bff44b"
@@ -221,6 +225,34 @@
     "Library/Psychology/Solo/Pochuvaysia_dobre": {
       "icon": "lucide-check-square",
       "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Psychology/Solo/Social_fobia": {
+      "icon": "lucide-loader-2",
+      "color": "yellow",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Skills/Engineer/Grokaem_algaritmy": {
+      "icon": "lucide-loader-2",
+      "color": "yellow",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Skills/Engineer/Social-Engineering": {
+      "icon": "lucide-loader-2",
+      "color": "yellow",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Skills/Engineer/Social-Engineering/Social-Engineering.fb2": {
+      "icon": "lucide-loader-2",
+      "color": "yellow",
       "unsynced": [
         "2563962f59bff44b"
       ]
